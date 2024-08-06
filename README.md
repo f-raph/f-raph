@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nagraph
+- 👋 Hi, I’m @Raphael
 - 👀 I’m interested in problem-solving and tech
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate and make contributions on projects

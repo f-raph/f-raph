@@ -6,9 +6,5 @@
 - LinkedIn: https://www.linkedin.com/in/raphael-frimpong-597722319/
 - Personal Website: https://f-raph.github.io/raph-landing-page/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coding is fun, lol
+- ⚡ Fun fact: Coding is fun, but soccer is in a league of its own!
 
-<!---
-Nagraph/Nagraph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
